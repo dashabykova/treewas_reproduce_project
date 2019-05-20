@@ -1,0 +1,81 @@
+#print(out)
+	#################### 
+	## treeWAS output ## 
+	#################### 
+	 
+	#################### 
+	## All findings:  ## 
+	#################### 
+Number of significant loci: [1] 0
+	 
+	######################## 
+	## Findings by test:  ## 
+	######################## 
+	 ####################  
+	 ##  terminal test ## 
+	 ####################  
+Number of significant loci: 
+[1] 0
+Significance threshold: 
+99.99957% 
+0.2547805 
+	 ########################  
+	 ##  simultaneous test ## 
+	 ########################  
+Number of significant loci: 
+[1] 0
+Significance threshold: 
+99.99957% 
+        3 
+	 ######################  
+	 ##  subsequent test ## 
+	 ######################  
+Number of significant loci: 
+[1] 0
+Significance threshold: 
+99.99957% 
+ 81.26668 
+#print(out2)
+	#################### 
+	## treeWAS output ## 
+	#################### 
+	 
+	#################### 
+	## All findings:  ## 
+	#################### 
+Number of significant loci: [1] 2
+Significant loci: 
+[1] "NEIS2490" "NEIS2902"
+	 
+	######################## 
+	## Findings by test:  ## 
+	######################## 
+	 ####################  
+	 ##  terminal test ## 
+	 ####################  
+Number of significant loci: 
+[1] 0
+Significance threshold: 
+99.99957% 
+0.2248062 
+	 ########################  
+	 ##  simultaneous test ## 
+	 ########################  
+Number of significant loci: 
+[1] 2
+Significance threshold: 
+99.99957% 
+ 2.983336 
+Significant loci: 
+         SNP.locus p.value score G1P1 G0P0 G1P0 G0P1
+NEIS2490       488       0  -3.5    4   49   15   61
+NEIS2902       698       0  -3.5    4   49   15   61
+	 ######################  
+	 ##  subsequent test ## 
+	 ######################  
+Number of significant loci: 
+[1] 0
+Significance threshold: 
+99.99957% 
+ 81.48891 
+
