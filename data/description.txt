@@ -1,1 +1,2 @@
 This folder contains tree structure, phenotype recnstruction, genotype reconstruction and simultaneous scores produced by treeWAS
+You need to go to branch data2 to see right data (in folder "data") and right plots (in folder "plots"). Converting matrix with gene prescence/absence to genind format lead to data loss, and we used not-converted matrix for second treeWAS launch. However, our conclusions stay the same.
